@@ -31,3 +31,22 @@ Non premitive Data Type.
 console.log(typeof undefined) => undefined
 console.log(typeof null) => object
  */
+
+// let num;
+// let arr = null
+// console.log(typeof num);
+// console.log(typeof arr); 
+
+
+/*..let obj = {
+    val : null
+}
+let val = obj.val
+
+console.log(val);
+console.log(typeof val);..*/
+
+
+
+
+
