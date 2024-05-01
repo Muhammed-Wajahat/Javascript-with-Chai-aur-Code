@@ -23,7 +23,12 @@ Non premitive Data type
 object
 Array
 function
+leacture 3
+"33" => 33
+"33abc" => NaN
+true => 1 : false => 0.
 
- 
-
+1 => true : 0 => false
+"" => false.
+"Usman ALi" => true.    
 
